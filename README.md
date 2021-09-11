@@ -14,7 +14,7 @@ npm start
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5185089-d91f-4532-b2d2-2b38dd58b658/Untitled.png)
+![1](https://user-images.githubusercontent.com/76740863/132957107-c663e5b5-acd4-49a6-af27-6114bfd41500.png)
 
 ## 기술 스택
 
@@ -51,13 +51,13 @@ npm start
 
 현재 로그인, 회원가입의 상태에 맞춰, 다른 버튼을 출력함
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf75373c-1384-4d67-bac5-2a5a3e081c0c/Untitled.png)
+![2](https://user-images.githubusercontent.com/76740863/132957112-cee2a7bd-bfed-4b3e-b81d-f427d4996199.png)
 
 - user가 있는 경우,
 
 클릭시 signOut() 함수가 동작하는 "LogOut" 버튼 띄우기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af5af8c2-952c-4bf1-888b-a368191e0ae5/Untitled.png)
+![3](https://user-images.githubusercontent.com/76740863/132957113-cfcf9241-9ef1-46d2-b7c9-b3396aa6d919.png)
 
 - user가 없는 경우,
 
@@ -67,9 +67,9 @@ npm start
 
 ## 2. 회원가입/로그인
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2efebc02-0e9a-4a3a-b3ae-306db7b113e7/Untitled.png)
+![4](https://user-images.githubusercontent.com/76740863/132957114-f377ad4c-7ef0-471c-b1f0-1820ec198993.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a6227eb8-da55-4e35-8f8c-6bc672933308/Untitled.png)
+![5](https://user-images.githubusercontent.com/76740863/132957115-4852fc04-b085-469e-9055-3c6d489ddd54.png)
 
 ### (1) modal 사용
 
@@ -353,7 +353,7 @@ post : 해당 id의 데이터요소들을 저장함
 
 ## 4. Firebase
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b47782ce-2178-4845-8497-3e7df6001916/Untitled.png)
+![6](https://user-images.githubusercontent.com/76740863/132957116-3d5ec712-2004-4576-b097-257ddc2eb0fd.png)
 
 posts : 게시글 목록
 
@@ -405,7 +405,7 @@ imageUrl : 게시글의 이미지
 import Avatar from "@material-ui/core/Avatar";
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bffc96aa-a68e-4e62-8a7f-7984398e0732/Untitled.png)
+![7](https://user-images.githubusercontent.com/76740863/132957118-b560ded8-13da-43bb-bb99-1483597bfd59.png)
 
 ```jsx
 {/* header -> avater + username */}
@@ -550,7 +550,7 @@ timestamp : firebase 서버 시간
 
 ## 1. imageUpload 형태 구현
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d56e94f-d424-4e49-a9ff-5004dbe5e11b/Untitled.png)
+![8](https://user-images.githubusercontent.com/76740863/132957119-12b5a418-1949-4e64-b5b7-f21e296130dd.png)
 
 ```jsx
 <div className="imageupload">
